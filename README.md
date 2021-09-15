@@ -39,7 +39,7 @@
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-%2300C7B7?style=flat-square&logo=RabbitMQ)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Beautiful soup](https://img.shields.io/badge/-Beautoful soup-important)
+![Beautifulsoup](https://img.shields.io/badge/-Beautoful soup-important)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
